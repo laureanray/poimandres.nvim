@@ -19,7 +19,7 @@ local config = {
     punctuation = 'blueGray2',
 
     error = 'pink3',
-    hint = 'blue1',
+    hint = 'background1',
     info = 'blue3',
     warn = 'yellow',
 
