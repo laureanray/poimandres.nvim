@@ -260,9 +260,9 @@ function M.get(config)
     luaTSConstructor = { fg = p.blueGray1 },
 
     -- vim.lsp.buf.document_highlight()
-    LspReferenceText = { bg = p.blue1 },
-    LspReferenceRead = { bg = p.blue1 },
-    LspReferenceWrite = { bg = p.blue1 },
+    LspReferenceText = { bg = p.blueGray1 },
+    LspReferenceRead = { bg = p.blueGray1 },
+    LspReferenceWrite = { bg = p.blueGray1 },
 
     -- lsp-highlight-codelens
     LspCodeLens = { fg = p.blueGray1 }, -- virtual text of code lens
