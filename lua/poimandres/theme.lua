@@ -20,7 +20,7 @@ function M.get(config)
     ColorColumn = { bg = p.blueGray1 },
     Conceal = { bg = p.none },
     CurSearch = { link = 'IncSearch' },
-    -- Cursor = {},
+    Cursor = { bg= p.pink1 },
     CursorColumn = { bg = p.background1 },
     -- CursorIM = {},
     CursorLine = { bg = p.background1 },
